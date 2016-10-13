@@ -11,7 +11,6 @@ configuring the port as required) with `./paillier_server.py`. Then, with the
 client similarly configured, just run `./paillier_client.py`.
 
 Possible changes/improvements to make:
-
     * Allow host/port as commandline arguments
     * Refactor `paillier_common.py` to be less repetitive
     * Couple with ElGamal to obtain fully homomorphic encryption
